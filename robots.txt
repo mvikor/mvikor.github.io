@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /__404$
+Disallow: /__user_agreement$
+Disallow: /__user_agreement.html$
+Disallow: /__privacy_policy$
+Disallow: /__privacy_policy.html$
+Disallow: /sitesearch.html$
+Disallow: /sitesearch$
+
+Sitemap: http://masterskayavikor.ukit.me/sitemap.xml
